@@ -1,0 +1,6 @@
+
+*.gz
+*.txt~
+ResNet/data/cifar-100-python/meta
+ResNet/data/cifar-100-python/test
+ResNet/data/cifar-100-python/train
